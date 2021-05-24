@@ -1,14 +1,14 @@
-# Title     : open_all_df
-# Objective : Open all data frames in a folder
+# Title     : Opens google API data files. THis is just a copy of open_all_df.R but with a modified opening function
+# Objective :
 # Created by: Alex
-# Created on: 2021-05-22
+# Created on: 2021-05-24
 
 #-----------Purpose
 #Create an R list containing all dfs in a given folder.
 
 
 #----------Changes b4 executing
-path_target_folder <- "data_exploration/google_api/data"
+path_target_folder <- "Big_Data_Challenge_Team_46/data_exploration/google_api/data"
 # setwd("Big_Data_Challenge_Team_46")
 getwd()
 
