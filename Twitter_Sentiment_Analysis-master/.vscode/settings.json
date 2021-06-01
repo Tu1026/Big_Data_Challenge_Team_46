@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe",
+    "python.pythonPath": "C:\\Users\\Wilson\\anaconda3\\envs\\BigData\\python.exe",
     "git.ignoreLimitWarning": true,
     "jupyter.jupyterServerType": "local"
 }
