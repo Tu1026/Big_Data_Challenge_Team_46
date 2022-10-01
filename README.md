@@ -4,3 +4,5 @@ Big Overall Acheivements Include:
 - Lots of Data Visualization using various python library!
 - Analysis of Twitter tweets in the pandemic based on sentiment analysis and NLP processing!
 - ML model to further predict the sentiment of tweets!
+
+https://journal.stemfellowship.org/doi/10.17975/sfj-2021-003
